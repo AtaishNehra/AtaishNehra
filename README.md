@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ataish Nehra
+# 👋 Hi, I'm Ataish
 
 ## 🧠 About Me
 
