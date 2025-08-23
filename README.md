@@ -2,7 +2,7 @@
 
 ## 🧠 About Me
 
-I a Machine Learning & AI enthusiast, with a deep specialization in Generative AI, Retrieval-Augmented Generation (RAG), and end-to-end ML-driven automation pipelines. My expertise spans the full ML lifecycle: from data engineering and advanced feature engineering, to LLM fine-tuning, scalable cloud-native deployment, and continuous model monitoring. I architect robust, production-grade AI systems, transforming complex, high-volume data streams into actionable business insights, and have a proven track record of deploying, optimizing, and maintaining ML/AI infrastructure at scale.
+I am a Machine Learning & AI enthusiast, with a deep specialization in Generative AI, Retrieval-Augmented Generation (RAG), and end-to-end ML-driven automation pipelines. My expertise spans the full ML lifecycle: from data engineering and advanced feature engineering, to LLM fine-tuning, scalable cloud-native deployment, and continuous model monitoring. I architect robust, production-grade AI systems, transforming complex, high-volume data streams into actionable business insights, and have a proven track record of deploying, optimizing, and maintaining ML/AI infrastructure at scale.
 
 - **Current Focus**: Building robust n8n automations and agentic agreement analysis tools for legal contracts using cutting-edge LLMs, vector databases, and agent orchestration frameworks.
 - **Research Interests**: LLM finetuning (Granite, Mistral, BERT), multi-agent architectures, scalable RAG pipelines, embeddings optimization, and enterprise ML applications.
