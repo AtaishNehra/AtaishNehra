@@ -48,12 +48,12 @@ I am a Machine Learning & AI enthusiast, with a deep specialization in Generativ
 
 ---
 
-## 🎓 Education & Certifications
+## 🎓 Education
 
 - **MS in Data Science** — Northeastern University, Boston, MA
 - **B.Tech in Data Science** — Ajeenkya DY Patil University, Pune, India
 
-**Professional Certifications**  
+## Professional Certifications
 - AWS Solutions Architect — Associate  
 - Azure AI Engineer — Associate  
 - Tableau Desktop Specialist
