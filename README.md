@@ -17,6 +17,12 @@ I am a Machine Learning & AI enthusiast, with a deep specialization in Generativ
 
 ## 🏢 Professional Experience
 
+### **Machine Learning & AI Engineer Lead — Synkriom, Inc (Jersey City, NJ)**
+*Jun 2024 – Oct 2025*
+
+- **Traditional ML for Anamoly Detection**:  Automated screening strengthening against regulatory compliance and operational risks for BCB bank.
+- **Feature Engineering and ETL**:  Integrated SWIFT gpi Observer Analytics APIs into risk pipelines to detect unusual cross-border financial transaction behaviors, reducing settlement anomalies by 27%
+
 ### **AI Data Scientist — Volta Inc (Louisville, KY)**
 *Aug 2024 – May 2025*
 
